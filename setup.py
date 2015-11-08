@@ -16,7 +16,7 @@ setup(
     description='Create .xls file with Python dictionary',
     long_description=long_description,
 
-    url='https://github.com/nidhinbose89/make_Excel.git',
+    url='https://github.com/nidhinbose89/make_excel.git',
 
     author='Nidhin Bose J',
     author_email='nidhinb@yahoo.com',
