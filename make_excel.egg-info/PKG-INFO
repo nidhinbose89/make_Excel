@@ -2,7 +2,7 @@ Metadata-Version: 1.1
 Name: make-excel
 Version: 1.2.0.dev1
 Summary: Create .xls file with Python dictionary
-Home-page: https://github.com/nidhinbose89/make_Excel.git
+Home-page: https://github.com/nidhinbose89/make_excel.git
 Author: Nidhin Bose J
 Author-email: nidhinb@yahoo.com
 License: MIT
@@ -23,5 +23,5 @@ Platform: UNKNOWN
 Classifier: Development Status :: 3 - Alpha
 Classifier: Intended Audience :: Developers
 Classifier: Topic :: Software Development :: Build Tools
-Classifier: License :: MIT License
+Classifier: License :: MIT
 Classifier: Programming Language :: Python :: 2.7
